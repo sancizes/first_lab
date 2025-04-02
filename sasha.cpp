@@ -36,7 +36,7 @@ int main() {
         double perimeter = calculatePerimeter(a, b, c);
         double area = calculateArea(a, b, c);
         bool isIsoscelesTriangle = isIsosceles(a, b, c);
-
+//комментарий
         // Вывод результатов
         cout << "Периметр треугольника: " << perimeter << endl;
         cout << "Площадь треугольника: " << area << endl;
